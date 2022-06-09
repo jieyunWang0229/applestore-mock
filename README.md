@@ -1,4 +1,4 @@
-# applestore-mock
+# Applestore-mock
 Learn web animation with GSAP
 
 
