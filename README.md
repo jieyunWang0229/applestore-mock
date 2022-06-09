@@ -1,5 +1,5 @@
 # Applestore-mock
-Learn web animation with GSAP
+A mock website of Apple, learn JavaScript animation with Gsap.
 
 
 # Demo
